@@ -1,0 +1,55 @@
+.dish-container{
+    background-color:darkturquoise;
+    width: 40%;
+    height: 60%;
+    padding: 4%;
+    margin: 0 auto;
+
+}
+
+li{
+    padding: 4%;
+    color:yellow;
+    width: 60%;
+    text-decoration: none;
+    border-bottom: 2px solid lightgray;
+}
+
+button{
+    background-color:cornsilk;
+    padding: 4px;
+    border: none;
+    border-radius: 50px;
+}
+
+p{
+    color: orchid;
+    font-weight: lighter;
+    font-size: medium;
+}
+
+.dishName , .dishDesc{
+    width:30%;
+    background-color: transparent;
+    margin-right:11%;
+    margin-left: 6%;
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid lightgray;
+}
+
+.additem{
+    background-color:yellow;
+    height: 100px;
+}
+
+.addDishbtn{
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+    background-color:darkturquoise;
+    padding: 4px;
+    border: none;
+    border-radius: 50px;
+    margin-top: 12px;
+}
