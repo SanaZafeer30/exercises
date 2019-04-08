@@ -1,0 +1,47 @@
+.App {
+
+    padding: 50px;
+    background-color: #66CCFF;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+Header{
+    background-color: #61dafb;
+    height:150px;
+
+
+}
+Main
+{
+    background-color: #fbc3b4;
+    height:500px;
+    width:70%;
+    display:inline-block;
+    float:left;
+
+
+}
+
+
+Aside{
+
+    background-color: #e5ff62;
+    display:inline-block;
+    width:30%;
+    height:500px;
+
+
+}
+
+.demo{
+    background-color: #4cfb49;
+    height:300px;
+
+}
